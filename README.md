@@ -3,8 +3,8 @@
 
 | 💻 Profile | 🛠 Tech Stack |
 | :--- | :--- |
-| Advanced React & Next.js patterns | **Frontend:** React, Next.js, TS, Tailwind |
-| Building AI SaaS (wizerunkowo.app) and more... | **Backend:** Node.js, REST, Java(basics) |
+| 4th year Computer Science technical School | **Frontend:** React, Next.js, TS, Tailwind |
+| Building AI SaaS  | **Backend:** Node.js, REST, Java(basics) |
 | CS Student & Product Thinker | **AI/Data:** Python, PyTorch, NumPy, TensorFlow (basics)  **Databases:** Supabase (PostgreSQL), MySQL, MongoDB |
 | Goal: Product‑focused teams & growth | **Tools:** Git, CI/CD, Colab, Active Directory |
 
