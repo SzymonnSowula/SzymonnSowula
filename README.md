@@ -15,9 +15,9 @@ Frontend‑oriented Developer with a strong focus on building fast, clean and co
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3 / SASS, Tailwind.
+- **Frontend:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind.
 - **Backend:** Node.js (REST / API‑first), Java (basics).
-- **AI & Data:** Python, NumPy, PyTorch (image processing, ML experiments).
+- **AI & Data:** Python, NumPy, PyTorch (basics).
 - **Tools & Workflow:** Git, GitHub, VS Code / Cursor, Google Colab, CI/CD, modern DevTools.
 
 ---
@@ -31,4 +31,3 @@ Frontend‑oriented Developer with a strong focus on building fast, clean and co
 
 ---
 
-[📁 **Check my Portfolio**](szymonsowula.netlify.app)
