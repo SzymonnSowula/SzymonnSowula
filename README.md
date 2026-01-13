@@ -13,5 +13,4 @@
 ### 🚀 2026 Focus
 - **SaaS Growth:** Ship & monetize real‑world AI products.
 - **Engineering:** Contribute to professional codebases & master backend architecture.
-- **Portfolio:** Build production‑grade projects that solve actual problems.
 
