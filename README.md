@@ -1,4 +1,4 @@
-# Hi, I'm Szymon 🧭
+# Hi, I'm Szymon 
 **Frontend Developer** focused on fast, conversion‑driven apps with **Next.js** / **REACT**.
 
 | 💻 Profile | 🛠 Tech Stack |
@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 2026 Focus
+### 2026 Focus
 - **SaaS Growth:** Ship & monetize real‑world AI products.
 - **Engineering:** Contribute to professional codebases & master backend architecture.
 
