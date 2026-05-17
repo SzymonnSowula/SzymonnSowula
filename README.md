@@ -1,16 +1,1 @@
-# Hi, I'm Szymon 
-**Frontend Developer** focused on fast, conversion‑driven apps with **Next.js** / **REACT**.
-
-| 💻 Profile | 🛠 Tech Stack |
-| :--- | :--- |
-| 4th year Computer Science technical School | **Frontend:** React, Next.js, TS, Tailwind |
-| Building AI SaaS  | **Backend:** Node.js, REST, Java(basics) |
-| Product Thinker | **AI/Data:** Python, PyTorch, NumPy, TensorFlow (basics)  **Databases:** Supabase (PostgreSQL), MySQL, MongoDB |
-| Goal: Product‑focused teams & growth | **Tools:** Git, CI/CD, Colab, Active Directory |
-
----
-
-### 2026 Focus
-- **SaaS Growth:** Ship & monetize real‑world AI products.
-- **Engineering:** Contribute to professional codebases & master backend architecture.
-
+Hello!
